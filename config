@@ -1,0 +1,11 @@
+command = /opt/homebrew/bin/fish
+theme = maple
+font-family = Maple Mono NF
+font-size = 20
+mouse-hide-while-typing = true
+cursor-style = block
+cursor-style-blink = false
+maximize = true
+title = "ghostty"
+macos-titlebar-proxy-icon = hidden
+cursor-style = block
